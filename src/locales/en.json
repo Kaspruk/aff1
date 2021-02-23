@@ -1,5 +1,9 @@
 {
   "appTitle": "File manager",
+  "menu": {
+    "home": "Home",
+    "fileManager": "File manager"
+  },
   "buttons": {
     "remove": "Remove",
     "cancel": "Cancel",
