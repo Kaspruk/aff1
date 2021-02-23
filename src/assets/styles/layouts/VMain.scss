@@ -1,0 +1,14 @@
+.v-main__wrap {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+
+  .file-manager-window {
+    width: 50%;
+    height: 100%;
+
+    &:first-child {
+      border-right: 1px solid #000000;
+    }
+  }
+}

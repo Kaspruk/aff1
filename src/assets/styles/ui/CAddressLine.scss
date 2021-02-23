@@ -1,0 +1,39 @@
+.c-address-line {
+  height: 48px;
+  color: #000000;
+
+  &-item {
+    height: 48px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+
+    &__prefix {
+      padding-right: 4px;
+    }
+
+    &__slot {
+      flex-grow: 1;
+    }
+
+    &__append {
+      padding-left: 4px;
+      align-self: center;
+    }
+  }
+
+  .v-text-field--solo {
+    border-radius: 0;
+
+    .v-input__slot {
+      max-height: 48px;
+    }
+  }
+
+  .v-text-field.v-text-field--solo:not(.v-text-field--solo-flat) > .v-input__control > .v-input__slot {
+    box-shadow: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+}

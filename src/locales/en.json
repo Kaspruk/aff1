@@ -1,0 +1,20 @@
+{
+  "appTitle": "File manager",
+  "buttons": {
+    "remove": "Remove",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "no"
+  },
+  "dialogs": {
+    "confirmRemoveFolder": "Are you confirming the deletion of the file folder?"
+  },
+  "table": {
+    "name": "Name",
+    "size": "Size",
+    "mime": "Mime",
+    "date": "Date",
+    "actions": "Actions",
+    "permissions": "Permissions"
+  }
+}

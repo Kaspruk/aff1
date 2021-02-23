@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "type": "folder",
+    "name": "src",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [2, 13, 19, 21, 23, 25, 28, 29]
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "type": "folder",
+    "name": "assets",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [3]
+  },
+  {
+    "id": 3,
+    "parentId": 2,
+    "type": "folder",
+    "name": "styles",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [4, 7, 10]
+  },
+  {
+    "id": 4,
+    "parentId": 3,
+    "type": "folder",
+    "name": "layouts",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [5, 6]
+  },
+  {
+    "id": 5,
+    "parentId": 4,
+    "type": "file",
+    "mime": "scss",
+    "name": "style",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 6,
+    "parentId": 4,
+    "type": "file",
+    "mime": "scss",
+    "name": "VAppBar",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 7,
+    "parentId": 3,
+    "type": "folder",
+    "name": "ui",
+    "size": null,
+    "mime": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [8, 9]
+  },
+  {
+    "id": 8,
+    "parentId": 7,
+    "type": "file",
+    "mime": "scss",
+    "name": "CAddressLine",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 9,
+    "parentId": 7,
+    "type": "file",
+    "mime": "scss",
+    "name": "style",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 10,
+    "parentId": 3,
+    "type": "folder",
+    "name": "vuetifyReset",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [11, 12]
+  },
+  {
+    "id": 11,
+    "parentId": 10,
+    "type": "file",
+    "mime": "scss",
+    "name": "style",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 12,
+    "parentId": 10,
+    "type": "file",
+    "mime": "scss",
+    "name": "VAppBar",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 13,
+    "parentId": 1,
+    "type": "folder",
+    "name": "components",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [14, 17]
+  },
+  {
+    "id": 14,
+    "parentId": 13,
+    "type": "folder",
+    "name": "layouts",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [15, 16]
+  },
+  {
+    "id": 15,
+    "parentId": 14,
+    "type": "file",
+    "name": "LHeader",
+    "mime": "vue",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 16,
+    "parentId": 14,
+    "type": "file",
+    "mime": "vue",
+    "name": "LSidebar",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 17,
+    "parentId": 13,
+    "type": "folder",
+    "name": "ui",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [18]
+  },
+  {
+    "id": 18,
+    "parentId": 17,
+    "type": "file",
+    "mime": "vue",
+    "name": "CAddressLine",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 19,
+    "parentId": 1,
+    "type": "folder",
+    "name": "plugins",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [20]
+  },
+  {
+    "id": 20,
+    "parentId": 19,
+    "type": "file",
+    "name": "vuetify",
+    "mime": "js",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 21,
+    "parentId": 1,
+    "type": "folder",
+    "name": "router",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [22]
+  },
+  {
+    "id": 22,
+    "parentId": 21,
+    "type": "file",
+    "name": "index",
+    "mime": "js",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 23,
+    "parentId": 1,
+    "type": "folder",
+    "name": "store",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [24]
+  },
+  {
+    "id": 24,
+    "parentId": 23,
+    "type": "file",
+    "name": "index",
+    "mime": "js",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 25,
+    "parentId": 1,
+    "type": "folder",
+    "name": "views",
+    "mime": null,
+    "size": null,
+    "created": "22.02.2021 11:00",
+    "permissions": "drw-r--r--",
+    "children": [26]
+  },
+  {
+    "id": 26,
+    "parentId": 25,
+    "type": "file",
+    "name": "Dashboard",
+    "mime": "vue",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 27,
+    "parentId": 1,
+    "type": "file",
+    "mime": "vue",
+    "name": "App",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 28,
+    "parentId": 1,
+    "type": "file",
+    "mime": "js",
+    "name": "main",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  },
+  {
+    "id": 29,
+    "parentId": 3,
+    "type": "file",
+    "mime": "scss",
+    "name": "main",
+    "size": "1KB",
+    "created": "22.02.2021 11:00",
+    "permissions": "-rw-r--r--"
+  }
+]
+
+
